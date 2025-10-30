@@ -7,13 +7,7 @@ export default defineConfig({
         react(),
         tailwindcss(),
     ],
-        server: {
-            host: true,
-            // https: true,  // if you’re using SSL certs
-            allowedHosts: [
-                "all",  // allow everything
+        base: import.meta.env.VITE_BASE_PATH || "/react-vite_portfolio",
 
-            ]
-        }
 }
 )
