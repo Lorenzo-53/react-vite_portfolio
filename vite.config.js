@@ -7,7 +7,7 @@ export default defineConfig({
         react(),
         tailwindcss(),
     ],
-        base: import.meta.env.VITE_BASE_PATH || "/react-vite_portfolio",
+        base: "/react-vite_portfolio",
 
 }
 )
