@@ -7,7 +7,7 @@ export default defineConfig({
         react(),
         tailwindcss(),
     ],
-        base: "/react-vite_portfolio",
+        base: "/",
 
 }
 )
