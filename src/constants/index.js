@@ -3,18 +3,18 @@ const navLinks = [
         name: "Work",
         link: "#work",
     },
-    {
-        name: "Experience",
-        link: "#experience",
-    },
+    // {
+    //     name: "Experience",
+    //     link: "#experience",
+    // },
     {
         name: "Skills",
         link: "#skills",
     },
-    {
-        name: "Testimonials",
-        link: "#testimonials",
-    },
+    // {
+    //     name: "Testimonials",
+    //     link: "#testimonials",
+    // },
 ];
 
 const words = [
@@ -221,7 +221,7 @@ const testimonials = [
         name: "Guy Hawkins",
         mentions: "@guyhawkins",
         review:
-            "Collaborating with Lorenzo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Lorenzo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lorenzo's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Lorenzo is the ideal partner.",
         imgPath: "/images/client2.png",
     },
     {
@@ -250,19 +250,19 @@ const testimonials = [
 const socialImgs = [
     {
         name: "insta",
-        url: "https://www.instagram.com/invionyx/",
+        url: "https://www.instagram.com/aanshhhhhhhhhhh/",
         imgPath: "/images/insta.png",
     },
-    {
-        name: "fb",
-        url: "https://www.facebook.com/",
-        imgPath: "/images/fb.png",
-    },
-    {
-        name: "x",
-        url: "https://www.x.com/",
-        imgPath: "/images/x.png",
-    },
+    // {
+    //     name: "fb",
+    //     url: "https://www.facebook.com/",
+    //     imgPath: "/images/fb.png",
+    // },
+    // {
+    //     name: "x",
+    //     url: "https://www.x.com/",
+    //     imgPath: "/images/x.png",
+    // },
     {
         name: "linkedin",
         url: "https://www.linkedin.com/in/lorenzo-salvatore-546166240",
