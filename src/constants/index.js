@@ -265,7 +265,7 @@ const socialImgs = [
     // },
     {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/lorenzo-salvatore-546166240",
+        url: "www.linkedin.com/in/ansh-srivastava-546166240/",
         imgPath: "/images/linkedin.png",
     },
 ];
