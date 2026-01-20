@@ -266,7 +266,7 @@ const socialImgs = [
     {
         name: "github",
         url: "https://github.com/Lorenzo-53",
-        imgPath: "/images/icons8-github-20.svg",
+        imgPath: "/images/github32.png",
     },
     {
         name: "linkedin",
