@@ -264,8 +264,13 @@ const socialImgs = [
     //     imgPath: "/images/x.png",
     // },
     {
+        name: "github",
+        url: "https://github.com/Lorenzo-53",
+        imgPath: "/images/icons8-github-20.svg",
+    },
+    {
         name: "linkedin",
-        url: "www.linkedin.com/in/ansh-srivastava-546166240/",
+        url: "https://www.linkedin.com/in/ansh-srivastava-546166240/",
         imgPath: "/images/linkedin.png",
     },
 ];
